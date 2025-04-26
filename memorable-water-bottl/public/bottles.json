@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "brand": "Hydro Flask",
+      "capacityLiters": 1.0,
+      "material": "Stainless Steel",
+      "color": "Black",
+      "priceUSD": 45,
+      "weightGrams": 450,
+      "usageYears": 10,
+      "suitableFor": "Hot and Cold",
+      "img": "https://example.com/images/hydroflask-black.png"
+    },
+    {
+      "id": 2,
+      "brand": "Nalgene",
+      "capacityLiters": 0.9,
+      "material": "Plastic",
+      "color": "Blue",
+      "priceUSD": 15,
+      "weightGrams": 180,
+      "usageYears": 5,
+      "suitableFor": "Cold",
+      "img": "https://example.com/images/nalgene-blue.png"
+    },
+    {
+      "id": 3,
+      "brand": "CamelBak",
+      "capacityLiters": 0.75,
+      "material": "Plastic",
+      "color": "Green",
+      "priceUSD": 20,
+      "weightGrams": 200,
+      "usageYears": 6,
+      "suitableFor": "Cold",
+      "img": "https://example.com/images/camelbak-green.png"
+    },
+    {
+      "id": 4,
+      "brand": "S'well",
+      "capacityLiters": 0.5,
+      "material": "Stainless Steel",
+      "color": "White",
+      "priceUSD": 35,
+      "weightGrams": 300,
+      "usageYears": 8,
+      "suitableFor": "Hot and Cold",
+      "img": "https://example.com/images/swell-white.png"
+    },
+    {
+      "id": 5,
+      "brand": "Contigo",
+      "capacityLiters": 0.7,
+      "material": "Plastic",
+      "color": "Purple",
+      "priceUSD": 18,
+      "weightGrams": 220,
+      "usageYears": 5,
+      "suitableFor": "Cold",
+      "img": "https://example.com/images/contigo-purple.png"
+    },
+    {
+      "id": 6,
+      "brand": "ThermoFlask",
+      "capacityLiters": 1.2,
+      "material": "Stainless Steel",
+      "color": "Teal",
+      "priceUSD": 40,
+      "weightGrams": 480,
+      "usageYears": 9,
+      "suitableFor": "Hot and Cold",
+      "img": "https://example.com/images/thermoflask-teal.png"
+    },
+    {
+      "id": 7,
+      "brand": "Takeya",
+      "capacityLiters": 1.0,
+      "material": "Stainless Steel",
+      "color": "Grey",
+      "priceUSD": 38,
+      "weightGrams": 430,
+      "usageYears": 8,
+      "suitableFor": "Hot and Cold",
+      "img": "https://example.com/images/takeya-grey.png"
+    },
+    {
+      "id": 8,
+      "brand": "LARQ",
+      "capacityLiters": 0.5,
+      "material": "Stainless Steel",
+      "color": "White",
+      "priceUSD": 95,
+      "weightGrams": 290,
+      "usageYears": 10,
+      "suitableFor": "Cold",
+      "img": "https://example.com/images/larq-white.png"
+    },
+    {
+      "id": 9,
+      "brand": "Brita",
+      "capacityLiters": 0.6,
+      "material": "Plastic",
+      "color": "Blue",
+      "priceUSD": 22,
+      "weightGrams": 210,
+      "usageYears": 4,
+      "suitableFor": "Cold",
+      "img": "https://example.com/images/brita-blue.png"
+    },
+    {
+      "id": 10,
+      "brand": "Iron Flask",
+      "capacityLiters": 0.9,
+      "material": "Stainless Steel",
+      "color": "Rainbow",
+      "priceUSD": 30,
+      "weightGrams": 460,
+      "usageYears": 9,
+      "suitableFor": "Hot and Cold",
+      "img": "https://example.com/images/ironflask-rainbow.png"
+    }
+  ]
+  
