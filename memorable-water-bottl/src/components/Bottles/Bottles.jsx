@@ -14,6 +14,9 @@ const Bottles = ({bottlesPromise}) => {
 
         const newCart = [...cart, bottle];
         setCart(newCart);
+
+        // save the bottle id in the Storage
+         
     }
 
     // console.log(bottles);
